@@ -1,1 +1,1 @@
-# test
+Repository dedicated to data science exercises using python and well known dat science libraries such as scipy, pandas, matplotlib, scikit. These exercises were derived from the book 'Data Science Projects With Python'
